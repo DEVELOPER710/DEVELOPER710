@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEVELOPER710
 - 👀 I’m interested in coding !!
-- 🌱 I’m currently learning Python !
+- 🌱 I’m currently learning Python & C !
 - 💞️ I already know basics of Html, Css & JS .
 - 📫 Thank You !!!!
 
